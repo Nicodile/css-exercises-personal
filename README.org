@@ -1,6 +1,7 @@
 #+title: Readme
 
 * Forked Readme
-I am doing this as a personal project for CSS learning
+I am doing this as a personal project for CSS learning. Git cloning for training and using it to learn how to successfully manage different portions of it.
 
-** Git cloning back to github as personal
+** Current setup
+Currently going through each CSS challenge (intro currently) and finishing them and sending them back to this repo after a clone
